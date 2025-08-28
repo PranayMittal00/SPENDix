@@ -1,4 +1,4 @@
-##💰 Spendix
+# 💰 Spendix
 
 Spendix is a modern full-stack expense and budget management platform that helps users track, analyze, and optimize their finances.
 It provides a responsive dashboard to log transactions, categorize expenses, and visualize spending patterns in real-time.
